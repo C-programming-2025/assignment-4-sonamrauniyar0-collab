@@ -1,0 +1,1 @@
+// Write a C program that checks if a given string is a palindrome using pointers.

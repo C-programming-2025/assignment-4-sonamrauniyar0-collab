@@ -1,0 +1,1 @@
+// Write a C program that copies the contents of one file to another file.

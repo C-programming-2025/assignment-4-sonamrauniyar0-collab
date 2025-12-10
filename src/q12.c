@@ -1,0 +1,1 @@
+// Write a C program to read the contents of a text file and display them on the screen.

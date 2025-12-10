@@ -1,0 +1,1 @@
+// Write a C program that reverses an array of characters using pointers.
